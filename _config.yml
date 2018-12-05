@@ -90,4 +90,7 @@ theme: clover
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:BBHNation/BBHNation.github.io.git
+  branch: master
+  message: 
