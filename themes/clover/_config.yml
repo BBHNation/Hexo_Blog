@@ -27,8 +27,8 @@ menu:
   #   path: /categories/Projects
   #   card: project-card
   # Stuffs:
-  #   path: /tags/Stuffs
-  #   card: article-card
+    # path: /tags/Stuffs
+    # card: article-card
   Home: /
   Archive: /archives
   # About: /about
