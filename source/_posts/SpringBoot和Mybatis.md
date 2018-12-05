@@ -1,5 +1,5 @@
 ---
-title: SpringBoot和Mybatis初探
+title: SpringBoot和Mybatis
 date: 2018-12-05 14:48:36
 excerpt: 整个SpringBoot非常方便的可以实现Restful服务，然而在实际的应用中，实现Restful服务只是表面，如果需要运营起来，需要数据层的支持...
 category: Tec
