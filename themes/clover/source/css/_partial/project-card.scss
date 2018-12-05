@@ -6,14 +6,17 @@
   margin: 40px 0;
   background-color: white;
   color: #333;
+  border-radius: 20px;
   > .imgWrap {
     width: 320px;
     height: 240px;
     margin-right: 40px;
     background-color: #f8f8f8;
+    border-radius: 20px;
     > img {
       width: 100%;
       height: 100%;
+      border-radius: 20px;
     }
   }
   > .ctnWrap {

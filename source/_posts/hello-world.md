@@ -1,7 +1,7 @@
 ---
 title: Hello World
 excerpt: 这里是白彬涵的个人博客
-photos: 
+photos: /images/hello.png
 category: Life
 ---
 Hello World, 这里是白彬涵的个人博客。

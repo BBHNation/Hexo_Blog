@@ -3,6 +3,7 @@ title: NGINX和文件服务器
 excerpt: 本篇博客的目的是记录使用Nginx搭建文件服务器的过程。
 date: 2018-12-05 11:13:27
 tags: PROGRAMING/LINUX
+photos: /images/eginx.png
 category: Tec
 ---
 
